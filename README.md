@@ -2,7 +2,9 @@
 
 Work in progress, but it's usable.
 
-To install, enable Texture Replacement in PPSSPP dev menu and put downloaded files to *PPSSPP FOLDER*\memstick\PSP\TEXTURES\\*GAME ID*
+To install, enable Texture Replacement in PPSSPP dev menu and put downloaded files to:
+
+PPSSPP\memstick\PSP\TEXTURES\\%GAME_ID%
 
 Game IDs:
 
