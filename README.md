@@ -13,3 +13,15 @@ EU - UCES01421
 NA - UCUS98751
 
 JP - NPJG00122
+
+# Special thanks to:
+
+Owocek
+
+Shockturtle
+
+MitsukiHarune
+
+Fabierex
+
+Heavenartist2006
