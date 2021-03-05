@@ -3,16 +3,15 @@
 Work in progress, but it's usable.
 
 To install, enable Texture Replacement in PPSSPP dev menu and put downloaded files to:
+`PPSSPP/memstick/PSP/TEXTURES/%GAME_ID%`
 
-PPSSPP\memstick\PSP\TEXTURES\\%GAME_ID%
-
-Game IDs:
-
-EU - UCES01421
-
-NA - UCUS98751
-
-JP - NPJG00122
+|  Region | Game ID     |
+| ------: | ----------- |
+|      EU | `UCES01421` |
+|      NA | `UCUS98751` |
+|      JP | `NPJG00122` |
+|      CN | `UCAS40318` |
+| DxD mod | `INFN00001` |
 
 # Special thanks to:
 
