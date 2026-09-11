@@ -1,6 +1,6 @@
 # Patapon 3 HD Textures for PPSSPP
 
-Work in progress, but it's usable.
+# Development on this repository has stalled, go to [Patapon-3-HD-Texture-Pack](https://github.com/Lin-zl522/Patapon-3-HD-Texture-Pack) instead.
 
 To install, enable Texture Replacement in PPSSPP dev menu and put downloaded files to:
 `PPSSPP/memstick/PSP/TEXTURES/%GAME_ID%`
